@@ -1,5 +1,7 @@
 # NeonStudy
 
+**Open the live study app:** [NeonStudy on GitHub Pages](https://orbgamestudios.github.io/NeonStudy/)
+
 A static Biochem 510 study app. Open `index.html` locally or publish the repository with GitHub Pages. Exam selection supports studying multiple exams together; the current question bank contains Exam 1 material, with Exam 2 and Exam 3 slots ready for separate content. Study progress is saved in the browser.
 ## Biochem 610 Exam 1
 
