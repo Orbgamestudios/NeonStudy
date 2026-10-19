@@ -9,3 +9,8 @@ Includes 50 hint-supported short-answer calculation problems and 50 multiple-cho
 ## Molecule practice
 
 The Review session MCQ menu includes four PubChem molecule quizzes: two 20-question amino-acid structure quizzes and one 20-question short-answer amino-acid code quiz plus 25 image-based questions on only the five DNA/RNA bases: adenine, guanine, cytosine, thymine, and uracil. The amino-acid code bank asks for both codes together (for example, `Ala A`). Structure images load from PubChem PUG REST. The live session statistics panel can be hidden and reopened; a correct streak of 3–5 triggers a one-second border lightning flash.
+
+
+## Cloudflare account sync
+
+See [cloudflare/README.md](cloudflare/README.md) to configure the optional Cloudflare Worker and D1 database for accounts and cross-device study progress. The Worker URL is entered in NeonStudy Settings after deployment.
